@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BigImageViewer</string>
+    <string name="url_input_hint">URL: </string>
+    <string name="download_btn">Download and View</string>
+</resources>
