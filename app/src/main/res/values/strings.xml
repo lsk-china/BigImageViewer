@@ -2,4 +2,8 @@
     <string name="app_name">BigImageViewer</string>
     <string name="url_input_hint">URL: </string>
     <string name="download_btn">Download and View</string>
+    <string name="ask_for_name_dialog_title">Input a File Name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="file_name_hint">File name: </string>
 </resources>

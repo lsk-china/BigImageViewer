@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.32760416666666664" />
         <entry key="app/src/main/res/layout/activity_show.xml" value="0.32760416666666664" />
+        <entry key="app/src/main/res/layout/ask_for_name_dialog.xml" value="0.3265625" />
       </map>
     </option>
   </component>

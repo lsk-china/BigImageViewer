@@ -13,10 +13,12 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/urlInput"
             android:hint="@string/url_input_hint"
             android:autofillHints="name"
             android:inputType="text"/>
         <Button
+            android:id="@+id/downloadBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/download_btn"/>
